@@ -1,0 +1,33 @@
+body{
+    background-color: hsl(0, 53%, 24%);
+}
+button{
+    font-size: 25px; 
+    background-color: hsl(0, 100%, 32%); 
+    color:black;
+}
+h1{
+    font-family: Snell Roundhand, Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font: cursive;
+}
+#separationbox{
+    height: 400px;
+    width:max-content;
+}
+/*
+#ClickMe{
+    font-size: 25px; 
+    background-color: grey; 
+    color: lightblue; 
+    border-radius: 5px;
+}
+#BroCode{
+    font-size: 25px; 
+    background-color: hsl(0, 100%, 32%); 
+    color:black;
+}
+#DoSomething{
+    font-size: 24px; background-color: rgb(217, 220, 20); padding: 20px;
+}*/
