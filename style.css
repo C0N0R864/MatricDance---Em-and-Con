@@ -1,33 +1,47 @@
-body{
-    background-color: hsl(0, 53%, 24%);
+body {
+    background-color: hsl(0, 53%, 24%);  
+    
+    /* background-color: hsl(194, 100%, 63%);  */
 }
-button{
-    font-size: 25px; 
-    background-color: hsl(0, 100%, 32%); 
-    color:black;
+
+button {
+    font-size: 25px;
+    background-color: hsl(0, 100%, 32%);
+    color: black;
 }
-h1{
+
+h1 {
     font-family: Snell Roundhand, Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
 }
-p{
+
+p {
     font: cursive;
 }
-#separationbox{
-    height: 400px;
-    width:max-content;
+
+#separationwords {
+    height: 390px;
+    width: max-content;
 }
-/*
-#ClickMe{
-    font-size: 25px; 
-    background-color: grey; 
-    color: lightblue; 
-    border-radius: 5px;
+
+.gallery {
+    display: block;
+    border: 4px solid black;
+    margin: 10px
 }
-#BroCode{
-    font-size: 25px; 
-    background-color: hsl(0, 100%, 32%); 
-    color:black;
+
+.gallery img {
+    width: 100%;
+    height: auto;
+
 }
-#DoSomething{
-    font-size: 24px; background-color: rgb(217, 220, 20); padding: 20px;
-}*/
+
+.description {
+    font-family: Bradley Hand, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+
+#separationalbum{
+    height: 100px;
+    width: max-content;
+}
